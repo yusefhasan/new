@@ -1,0 +1,39 @@
+
+
+.home__bg{
+
+background-image: "https://images.unsplash.com/photo-1577563908411-5077b6dc7624?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80";
+height: 92vh;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+overflow-x: hidden;
+display: flex;
+}
+
+
+.between{
+margin-left: 21px;
+padding-left: 20px;
+padding-right: 10px;
+
+}
+
+
+
+body{
+
+    margin-left: 10px;
+  }
+
+  .zeek{
+
+margin-left: 11px;
+
+  }
+
+  .icon{
+  color: yellowgreen;
+margin-left: 10px;
+display: inline-block;
+  }

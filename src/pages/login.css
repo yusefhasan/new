@@ -1,0 +1,28 @@
+.login__bg{
+background-image: url(https://images.pexels.com/photos/14469236/pexels-photo-14469236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+height: 100vh;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+overflow-x: hidden;
+width: 500px;
+ overflow:hidden; /*  to show the radius */
+box-shadow:rgb(0 0 0 /100%)0px 26px 30px -10px,
+rgb(0 0 0 /73%) 0px 16px 10px -10px;
+
+
+
+}
+
+.Container{
+    min-width: 100%;
+  
+
+}
+
+
+.Row{
+    object-fit: contain;
+
+
+}
